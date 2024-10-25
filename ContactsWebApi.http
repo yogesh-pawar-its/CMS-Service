@@ -1,0 +1,9 @@
+@ContactsWebApi_HostAddress = http://localhost:5095
+
+# GET {{ContactsWebApi_HostAddress}}/weatherforecast/
+
+GET {{ContactsWebApi_HostAddress}}/contacts/
+# GET {{ContactsWebApi_HostAddress}}/Swagger/
+Accept: application/json
+
+###
